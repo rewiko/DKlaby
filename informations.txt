@@ -1,0 +1,24 @@
+### Programme ###
+
+
+
+
+
+
+### Jeu ###
+
+- A l'écran d'accueil choisir son niveau (de F1 à F10)
+
+- Déplacer Donkey Kong à l'aide des flèches de déplacement
+
+- Des pièges et des vies sont placer sur la map:
+		Banane	= +1 vie
+		Pique	= -1 vie
+		Missile	= -2 vies
+
+- Vous pouvez générer aléatoirement vos propre map grâce à F12 et puis l'enregistrer en pressant respectivement sur F1...F10
+	F12 >>> [choix niveau] F1...F10 >>> ECHAP (recommencer la suite de commande pour chaque niveau)
+
+- 3 Grandeurs de maps sont disponible
+
+
